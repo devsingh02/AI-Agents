@@ -1,0 +1,17 @@
+easyocr 
+fuzzywuzzy 
+emoji 
+torch 
+torchvision 
+transformers 
+matplotlib 
+pillow 
+opencv-python 
+tabulate 
+nltk
+einops
+timm
+accelerate
+flask
+flash-attention
+ipykernel
